@@ -3,4 +3,3 @@
 # Ada Library Information
 !*.c
 !.gitignore
-!.o
